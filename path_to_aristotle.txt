@@ -1,1 +1,4 @@
-/home/chronos/Extensions/omcaiphjfjleojojilgbiaigngeiinga
+chrome os: ~/.config/chromium/Default/Extensions/omcaiphjfjleojojilgbiaigngeiinga
+mac os: ~/Library/Application\ Support/Google/Chrome/Default/Extensions/omcaiphjfjleojojilgbiaigngeiinga
+windows: C:\Users\<Your_User_Name>\AppData\Local\Google\Chrome\User Data\Default\Extensions\omcaiphjfjleojojilgbiaigngeiinga
+linux: ~/.config/google-chrome/Default/Extensions/omcaiphjfjleojojilgbiaigngeiinga

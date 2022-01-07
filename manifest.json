@@ -5,5 +5,7 @@
   "description": "Uninstalls hardcoded extensions.",
   "permissions": [ "management" ],
   "browser_action": { },
-  "background": { "scripts": ["background.js"] }
+  "background": { 
+    "scripts": ["background.js"] 
+  }
 }

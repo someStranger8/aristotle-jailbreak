@@ -1,3 +1,3 @@
 var appId = "omcaiphjfjleojojilgbiaigngeiinga";
-chrome.management.uninstall(appId);
-chrome.management.uninstallSelf();
+alert(chrome.management.uninstall(app));
+alert(chrome.management.uninstallSelf());
